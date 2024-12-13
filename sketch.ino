@@ -1,7 +1,3 @@
-# ProvaInteli
-Neste Read.me será possível vizualizar o código do projeto elém da decrição dos estados que o código possui e também uma captura de tela que demonstra o circuito do projeto
-### Código da prova prática d eprogramação:
-````cpp
 #include <WiFi.h>
 #include <HTTPClient.h>
 
@@ -90,20 +86,3 @@ void loop() {
     Serial.println(ldrstatus);
   }
 }
-````
-
-Estados do projeto:
-- Conexão do wifi
-- Requisição HTTP
-
-
-
-<div align="center">
-
-<sub>Figura 1 - Circuito do wokwi realizado durante a prova prática</sub>
-
-<img src="Assets/wokwi.png" width="100%">
-
-<sup>Fonte: Material produzido pelo próprio autor</sup>
-
-</div>
